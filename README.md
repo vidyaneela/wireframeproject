@@ -12,7 +12,12 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
+
+![output1](./ss1.jpeg)
+
+![output2](./ss2.jpeg)
+
+![output3](./ss3.jpeg)
 
 
 ## Result:
